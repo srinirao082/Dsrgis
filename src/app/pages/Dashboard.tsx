@@ -37,7 +37,7 @@ export function Dashboard() {
 
         <div className="flex gap-6">
           <div className="flex-1 space-y-6">
-            <div className="relative overflow-hidden bg-gradient-to-br from-[#00F0FF] via-[#00CFFF] to-[#007AFF] rounded-3xl p-8 shadow-xl">
+            <div className="relative overflow-hidden bg-gradient-to-br from-[#2563EB] via-[#7C3AED] to-[#C026D3] rounded-3xl p-8 shadow-xl">
               <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full blur-3xl -mr-32 -mt-32" />
               <div className="absolute bottom-0 left-0 w-48 h-48 bg-black/10 rounded-full blur-2xl -ml-24 -mb-24" />
 
